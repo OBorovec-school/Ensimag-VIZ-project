@@ -33,23 +33,19 @@ bins = 30
 preferred_hist = np.histogram(preferred, range=(-0.25, 1.25), bins=bins)[0]
 not_preferred_hist = np.histogram(not_preferred, range=(-0.25, 1.25), bins=bins)[0]
 
-# Data transformation: percentage-> log
+# Data transformation: percentage
 preferred_hist_per = preferred_hist * 100 / np.sum(preferred_hist)
 not_preferred_hist_per = not_preferred_hist * 100 / np.sum(not_preferred_hist)
-# preferred_hist_log = np.log(preferred_hist_per)
-# not_preferred_hist_log = np.log(not_preferred_hist_per)
-# preferred_hist_log[np.isneginf(preferred_hist_log)] = 0
-# not_preferred_hist_log[np.isneginf(not_preferred_hist_log)] = 0
 z = [preferred_hist_per,
      not_preferred_hist_per]
 
 # Creating x labels
-x_labels = int(bins/6) * ['']
+x_labels = int(bins/12) * ['']
 for x in range(10):
     x_labels.append(str(round(x/10, 2)))
-    x_labels += int(bins * 2 / 30 - 1) * ['']
+    x_labels += int(bins * 1 / 30 - 1) * ['']
 x_labels.append(str(1.0))
-x_labels += int(bins/6 - 1) * ['']
+x_labels += int(bins/12 - 1) * ['']
 
 ax = sns.heatmap(z,
             cbar_kws={'label': 'Percentage of votes'})
