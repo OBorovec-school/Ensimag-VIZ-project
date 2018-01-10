@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 
-from source.utils import load_data, load_meta_data
+from source.python.utils import load_data, load_meta_data
 
 data = load_data()
 meta = load_meta_data()
@@ -40,19 +40,20 @@ z = [preferred_hist_per,
      not_preferred_hist_per]
 
 # Creating x labels
-x_labels = int(bins/12) * ['']
+x_labels = int(bins / 12) * ['']
 for x in range(10):
-    x_labels.append(str(round(x/10, 2)))
+    x_labels.append(str(round(x / 10, 2)))
     x_labels += int(bins * 1 / 30 - 1) * ['']
 x_labels.append(str(1.0))
-x_labels += int(bins/12 - 1) * ['']
+x_labels += int(bins / 12 - 1) * ['']
 
 ax = sns.heatmap(z,
-            cbar_kws={'label': 'Percentage of votes'})
+                 cbar_kws={'label': 'Percentage of votes'},
+                 cmap="YlGnBu")
 ax.set_xlabel('Score (window size 0.05)')
 ax.set_xticklabels(x_labels)
 ax.set_yticklabels(['Supported\ncandidate', 'Other\ncandidates'], rotation=90)
 # plt.show()
-plt.savefig('../results/GI_score_range.png')
+plt.savefig('../../results/GI_score_range.png')
 
 print('Done')

@@ -1,4 +1,5 @@
 import os
+
 import numpy as np
 import pandas as pd
 
@@ -13,7 +14,7 @@ def files(path):
             yield file_path, file
 
 
-def load_data(data_folder='../data'):
+def load_data(data_folder='../../data'):
     dfs = []
     for file_path, file in files(data_folder):
         if file in DATA_FILES:
@@ -24,7 +25,8 @@ def load_data(data_folder='../data'):
     data = data.rename(columns=lambda x: x.strip())
     return data
 
-def load_meta_data(data_folder='../data'):
+
+def load_meta_data(data_folder='../../data'):
     meta_data_file = os.path.join(data_folder, META_DATA_FILE)
     meta = pd.read_csv(meta_data_file, sep=';').transpose()
     meta.columns = meta.iloc[0]
@@ -33,6 +35,7 @@ def load_meta_data(data_folder='../data'):
     meta = meta.rename(columns={np.nan: 'NA'})
     return meta
 
+
 def norm(numbers):
     min_n = np.min(numbers)
     numbers = numbers - min_n
@@ -40,5 +43,6 @@ def norm(numbers):
     numbers = numbers / max_n
     return numbers
 
+
 def hex_color(str):
-   return int(str, 16)
+    return int(str, 16)
