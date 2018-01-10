@@ -4,10 +4,13 @@
     <title> Election Data Visualization</title>
     <meta charset="utf-8">
     <script src="https://d3js.org/d3.v4.min.js"></script>
-    <link rel="StyleSheet" href="style.css" type="txt/css">
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <div id="legend"></div>
+    <div id="left">
+        <svg id="big_chart"></svg>
+    </div>
+    <div id="right">
     <svg id="NDA"></svg>
     <svg id="MLP"></svg>
     <svg id="EM"></svg>
@@ -19,6 +22,7 @@
     <svg id="JLM"></svg>
     <svg id="FA"></svg>
     <svg id="FF"></svg>
+    </div>
     <script type="text/javascript" src="main.js"></script>
 </body>
 </html>
