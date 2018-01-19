@@ -2,7 +2,7 @@ var all_candidats = [], data_AV = {}, data_AVG = {}, data_EVG = {};
 var data_legend = [{label:"Approved", color: "#00cc00"},
                     {label: "Non-Approved", color: "#ff6600"},
                     {label: "Non-Consistency", color: "#002699"}];    
-var height = 200, width = 200, height_big = 400, width_big = 400, height_small =150, width_small = 150;
+var height = 200, width = 200, height_big = 500, width_big = 500, height_small =200, width_small = 200;
 var height_title = 25;
 var thisTemp = this;
 var color_candidat = ["#0088c6", "#83726d", "#ffd850", "#f39dc7","#a21700", "#f96f43", "#464a4c", "#cee9f8", "#de2707", "#131413", "#75bbe2","#ffffff" ];

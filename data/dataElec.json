@@ -1,0 +1,871 @@
+[
+  {
+    "key": "NDA",
+    "region": "18",
+    "subregion": "Approval Vote",
+    "value": 16
+  },
+   {
+    "key": "FA",
+    "region": "18",
+    "subregion": "Approval Vote",
+    "value": 25
+  },
+   {
+    "key": "FF",
+    "region": "18",
+    "subregion": "Approval Vote",
+    "value": 25
+  },
+  {
+    "key": "MLP",
+    "region": "18",
+    "subregion": "Approval Vote",
+    "value": 18
+  },
+  
+  {
+    "key": "EM",
+    "region": "18",
+    "subregion": "Approval Vote",
+    "value": 87
+  },
+  {
+    "key": "BH",
+    "region": "18",
+    "subregion": "Approval Vote",
+    "value": 168
+  },
+  {
+    "key": "NA",
+    "region": "18",
+    "subregion": "Approval Vote",
+    "value": 23
+  },
+
+  {
+    "key": "PP",
+    "region": "18",
+    "subregion": "Approval Vote",
+    "value": 65
+  },
+  
+  {
+    "key": "JC",
+    "region": "18",
+    "subregion": "Approval Vote",
+    "value": 7
+  },
+  
+  {
+    "key": "JL",
+    "region": "18",
+    "subregion": "Approval Vote",
+    "value": 23
+  },
+  
+  {
+    "key": "JLM",
+    "region": "18",
+    "subregion": "Approval Vote",
+    "value": 167
+  },
+  
+  
+  
+  
+  {
+    "key": "JLM",
+    "region": "18",
+    "subregion": "Evaluative Vote",
+    "value": 164.04
+  },
+  {
+    "key": "NDA",
+    "region": "18",
+    "subregion": "Evaluative Vote",
+    "value": 48.29
+  },
+  {
+    "key": "MLP",
+    "region": "18",
+    "subregion": "Evaluative Vote",
+    "value": 19.37
+  },
+  {
+    "key": "EM",
+    "region": "18",
+    "subregion": "Evaluative Vote",
+    "value": 103.10
+  },
+  {
+    "key": "BH",
+    "region": "18",
+    "subregion": "Evaluative Vote",
+    "value": 156.79
+  },
+  {
+    "key": "NA",
+    "region": "18",
+    "subregion": "Evaluative Vote",
+    "value": 77.11
+  },
+  {
+    "key": "PP",
+    "region": "18",
+    "subregion": "Evaluative Vote",
+    "value": 94.83
+  },
+  {
+    "key": "JC",
+    "region": "18",
+    "subregion": "Evaluative Vote",
+    "value": 49.83
+  },
+  {
+    "key": "JL",
+    "region": "18",
+    "subregion": "Evaluative Vote",
+    "value": 63.83
+  },
+  {
+    "key": "FA",
+    "region": "18",
+    "subregion": "Evaluative Vote",
+    "value": 45.05
+  },
+  {
+    "key": "FF",
+    "region": "18",
+    "subregion": "Evaluative Vote",
+    "value": 34.32
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+  {
+    "key": "NDA",
+    "region": "30",
+    "subregion": "Approval Vote",
+    "value": 13
+  },
+  {
+    "key": "MLP",
+    "region": "30",
+    "subregion": "Approval Vote",
+    "value": 8
+  },
+  {
+    "key": "EM",
+    "region": "30",
+    "subregion": "Approval Vote",
+    "value": 97
+  },
+  {
+    "key": "BH",
+    "region": "30",
+    "subregion": "Approval Vote",
+    "value": 147
+  },
+  {
+    "key": "NA",
+    "region": "30",
+    "subregion": "Approval Vote",
+    "value": 27
+  },
+  {
+    "key": "PP",
+    "region": "30",
+    "subregion": "Approval Vote",
+    "value": 53
+  },
+  {
+    "key": "JC",
+    "region": "30",
+    "subregion": "Approval Vote",
+    "value": 7
+  },
+  {
+    "key": "JL",
+    "region": "30",
+    "subregion": "Approval Vote",
+    "value": 6
+  },
+  {
+    "key": "JLM",
+    "region": "30",
+    "subregion": "Approval Vote",
+    "value": 119
+  },
+  {
+    "key": "FA",
+    "region": "30",
+    "subregion": "Approval Vote",
+    "value": 9
+  },
+  {
+    "key": "FF",
+    "region": "30",
+    "subregion": "Approval Vote",
+    "value": 25
+  },
+  
+ 
+  {
+    "key": "NDA",
+    "region": "30",
+    "subregion": "Evaluative Vote",
+    "value": 37.16
+  },
+  {
+    "key": "MLP",
+    "region": "30",
+    "subregion": "Evaluative Vote",
+    "value": 10.07
+  },
+  {
+    "key": "EM",
+    "region": "30",
+    "subregion": "Evaluative Vote",
+    "value": 107.16
+  },
+  {
+    "key": "BH",
+    "region": "30",
+    "subregion": "Evaluative Vote",
+    "value": 139.60
+  },
+  {
+    "key": "NA",
+    "region": "30",
+    "subregion": "Evaluative Vote",
+    "value": 65.33
+  },
+  {
+    "key": "PP",
+    "region": "30",
+    "subregion": "Evaluative Vote",
+    "value": 78.06
+  },
+  {
+    "key": "JC",
+    "region": "30",
+    "subregion": "Evaluative Vote",
+    "value": 36.30
+  },
+  {
+    "key": "JL",
+    "region": "30",
+    "subregion": "Evaluative Vote",
+    "value": 43.57
+  },
+   
+  {
+    "key": "JLM",
+    "region": "30",
+    "subregion": "Evaluative Vote",
+    "value": 124.27
+  },
+  {
+    "key": "FA",
+    "region": "30",
+    "subregion": "Evaluative Vote",
+    "value": 32.66
+  },
+  {
+    "key": "FF",
+    "region": "30",
+    "subregion": "Evaluative Vote",
+    "value": 32.71
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  {
+    "key": "NDA",
+    "region": "40",
+    "subregion": "Approval Vote",
+    "value": 13
+  },
+  {
+    "key": "MLP",
+    "region": "40",
+    "subregion": "Approval Vote",
+    "value": 7
+  },
+  {
+    "key": "EM",
+    "region": "40",
+    "subregion": "Approval Vote",
+    "value": 81
+  },
+  {
+    "key": "BH",
+    "region": "40",
+    "subregion": "Approval Vote",
+    "value": 112
+  },
+  {
+    "key": "NA",
+    "region": "40",
+    "subregion": "Approval Vote",
+    "value": 20
+  },
+  {
+    "key": "PP",
+    "region": "40",
+    "subregion": "Approval Vote",
+    "value": 31
+  },
+  {
+    "key": "JC",
+    "region": "40",
+    "subregion": "Approval Vote",
+    "value": 6
+  },
+  {
+    "key": "JL",
+    "region": "40",
+    "subregion": "Approval Vote",
+    "value": 9
+  },
+  {
+    "key": "JLM",
+    "region": "40",
+    "subregion": "Approval Vote",
+    "value": 88
+  },
+  {
+    "key": "FA",
+    "region": "40",
+    "subregion": "Approval Vote",
+    "value": 5
+  },
+  {
+    "key": "FF",
+    "region": "40",
+    "subregion": "Approval Vote",
+    "value": 34
+  },
+  
+ 
+  {
+    "key": "NDA",
+    "region": "40",
+    "subregion": "Evaluative Vote",
+    "value": 31.29
+  },
+  {
+    "key": "MLP",
+    "region": "40",
+    "subregion": "Evaluative Vote",
+    "value": 10.63
+  },
+  {
+    "key": "EM",
+    "region": "40",
+    "subregion": "Evaluative Vote",
+    "value": 91.12
+  },
+  {
+    "key": "BH",
+    "region": "40",
+    "subregion": "Evaluative Vote",
+    "value": 110.53
+  },
+  {
+    "key": "NA",
+    "region": "40",
+    "subregion": "Evaluative Vote",
+    "value": 49.32
+  },
+  {
+    "key": "PP",
+    "region": "40",
+    "subregion": "Evaluative Vote",
+    "value": 57.81
+  },
+  {
+    "key": "JC",
+    "region": "40",
+    "subregion": "Evaluative Vote",
+    "value": 32.17
+  },
+  {
+    "key": "JL",
+    "region": "40",
+    "subregion": "Evaluative Vote",
+    "value": 37.53
+  },
+   
+  {
+    "key": "JLM",
+    "region": "40",
+    "subregion": "Evaluative Vote",
+    "value": 93.36
+  },
+  {
+    "key": "FA",
+    "region": "40",
+    "subregion": "Evaluative Vote",
+    "value": 27.46
+  },
+  {
+    "key": "FF",
+    "region": "40",
+    "subregion": "Evaluative Vote",
+    "value": 35.34
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  {
+    "key": "NDA",
+    "region": "50",
+    "subregion": "Approval Vote",
+    "value": 21
+  },
+  {
+    "key": "MLP",
+    "region": "50",
+    "subregion": "Approval Vote",
+    "value": 11
+  },
+  {
+    "key": "EM",
+    "region": "50",
+    "subregion": "Approval Vote",
+    "value": 98
+  },
+  {
+    "key": "BH",
+    "region": "50",
+    "subregion": "Approval Vote",
+    "value": 99
+  },
+  {
+    "key": "NA",
+    "region": "50",
+    "subregion": "Approval Vote",
+    "value": 29
+  },
+  {
+    "key": "PP",
+    "region": "50",
+    "subregion": "Approval Vote",
+    "value": 38
+  },
+  {
+    "key": "JC",
+    "region": "50",
+    "subregion": "Approval Vote",
+    "value": 8
+  },
+  {
+    "key": "JL",
+    "region": "50",
+    "subregion": "Approval Vote",
+    "value": 16
+  },
+  {
+    "key": "JLM",
+    "region": "50",
+    "subregion": "Approval Vote",
+    "value": 84
+  },
+  {
+    "key": "FA",
+    "region": "50",
+    "subregion": "Approval Vote",
+    "value": 11
+  },
+  {
+    "key": "FF",
+    "region": "50",
+    "subregion": "Approval Vote",
+    "value": 27
+  },
+  
+ 
+  {
+    "key": "NDA",
+    "region": "50",
+    "subregion": "Evaluative Vote",
+    "value": 30.66
+  },
+  {
+    "key": "MLP",
+    "region": "50",
+    "subregion": "Evaluative Vote",
+    "value": 12.53
+  },
+  {
+    "key": "EM",
+    "region": "50",
+    "subregion": "Evaluative Vote",
+    "value": 93.34
+  },
+  {
+    "key": "BH",
+    "region": "50",
+    "subregion": "Evaluative Vote",
+    "value": 99.19
+  },
+  {
+    "key": "NA",
+    "region": "50",
+    "subregion": "Evaluative Vote",
+    "value": 44.51
+  },
+  {
+    "key": "PP",
+    "region": "50",
+    "subregion": "Evaluative Vote",
+    "value": 48.21
+  },
+  {
+    "key": "JC",
+    "region": "50",
+    "subregion": "Evaluative Vote",
+    "value": 26.15
+  },
+  {
+    "key": "JL",
+    "region": "50",
+    "subregion": "Evaluative Vote",
+    "value": 31.85
+  },
+   
+  {
+    "key": "JLM",
+    "region": "50",
+    "subregion": "Evaluative Vote",
+    "value": 86.03
+  },
+  {
+    "key": "FA",
+    "region": "50",
+    "subregion": "Evaluative Vote",
+    "value": 24.67
+  },
+  {
+    "key": "FF",
+    "region": "50",
+    "subregion": "Evaluative Vote",
+    "value": 28.86
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  {
+    "key": "NDA",
+    "region": "60",
+    "subregion": "Approval Vote",
+    "value": 19
+  },
+  {
+    "key": "MLP",
+    "region": "60",
+    "subregion": "Approval Vote",
+    "value": 15
+  },
+  {
+    "key": "EM",
+    "region": "60",
+    "subregion": "Approval Vote",
+    "value": 86
+  },
+  {
+    "key": "BH",
+    "region": "60",
+    "subregion": "Approval Vote",
+    "value": 87
+  },
+  {
+    "key": "NA",
+    "region": "60",
+    "subregion": "Approval Vote",
+    "value": 16
+  },
+  {
+    "key": "PP",
+    "region": "60",
+    "subregion": "Approval Vote",
+    "value": 28
+  },
+  {
+    "key": "JC",
+    "region": "60",
+    "subregion": "Approval Vote",
+    "value": 5
+  },
+  {
+    "key": "JL",
+    "region": "60",
+    "subregion": "Approval Vote",
+    "value": 8
+  },
+  {
+    "key": "JLM",
+    "region": "60",
+    "subregion": "Approval Vote",
+    "value": 75
+  },
+  {
+    "key": "FA",
+    "region": "60",
+    "subregion": "Approval Vote",
+    "value": 6
+  },
+  {
+    "key": "FF",
+    "region": "60",
+    "subregion": "Approval Vote",
+    "value": 33
+  },
+  
+ 
+  {
+    "key": "NDA",
+    "region": "60",
+    "subregion": "Evaluative Vote",
+    "value": 31.96
+  },
+  {
+    "key": "MLP",
+    "region": "60",
+    "subregion": "Evaluative Vote",
+    "value": 16.56
+  },
+  {
+    "key": "EM",
+    "region": "60",
+    "subregion": "Evaluative Vote",
+    "value": 85.70
+  },
+  {
+    "key": "BH",
+    "region": "60",
+    "subregion": "Evaluative Vote",
+    "value": 88.19
+  },
+  {
+    "key": "NA",
+    "region": "60",
+    "subregion": "Evaluative Vote",
+    "value": 40.50
+  },
+  {
+    "key": "PP",
+    "region": "60",
+    "subregion": "Evaluative Vote",
+    "value": 51.03
+  },
+  {
+    "key": "JC",
+    "region": "60",
+    "subregion": "Evaluative Vote",
+    "value": 22.26
+  },
+  {
+    "key": "JL",
+    "region": "60",
+    "subregion": "Evaluative Vote",
+    "value": 30.37
+  },
+   
+  {
+    "key": "JLM",
+    "region": "60",
+    "subregion": "Evaluative Vote",
+    "value": 84.68
+  },
+  {
+    "key": "FA",
+    "region": "60",
+    "subregion": "Evaluative Vote",
+    "value": 20.82
+  },
+  {
+    "key": "FF",
+    "region": "60",
+    "subregion": "Evaluative Vote",
+    "value": 36.36
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  {
+    "key": "NDA",
+    "region": "70",
+    "subregion": "Approval Vote",
+    "value": 14
+  },
+  {
+    "key": "MLP",
+    "region": "70",
+    "subregion": "Approval Vote",
+    "value": 8
+  },
+  {
+    "key": "EM",
+    "region": "70",
+    "subregion": "Approval Vote",
+    "value": 79
+  },
+  {
+    "key": "BH",
+    "region": "70",
+    "subregion": "Approval Vote",
+    "value": 51
+  },
+  {
+    "key": "NA",
+    "region": "70",
+    "subregion": "Approval Vote",
+    "value": 6
+  },
+  {
+    "key": "PP",
+    "region": "70",
+    "subregion": "Approval Vote",
+    "value": 9
+  },
+  {
+    "key": "JC",
+    "region": "70",
+    "subregion": "Approval Vote",
+    "value": 2
+  },
+  {
+    "key": "JL",
+    "region": "70",
+    "subregion": "Approval Vote",
+    "value": 9
+  },
+  {
+    "key": "JLM",
+    "region": "70",
+    "subregion": "Approval Vote",
+    "value": 32
+  },
+  {
+    "key": "FA",
+    "region": "70",
+    "subregion": "Approval Vote",
+    "value": 5
+  },
+  {
+    "key": "FF",
+    "region": "70",
+    "subregion": "Approval Vote",
+    "value": 30
+  },
+  
+ 
+  {
+    "key": "NDA",
+    "region": "70",
+    "subregion": "Evaluative Vote",
+    "value": 23.83
+  },
+  {
+    "key": "MLP",
+    "region": "70",
+    "subregion": "Evaluative Vote",
+    "value": 12.47
+  },
+  {
+    "key": "EM",
+    "region": "70",
+    "subregion": "Evaluative Vote",
+    "value": 81.00
+  },
+  {
+    "key": "BH",
+    "region": "70",
+    "subregion": "Evaluative Vote",
+    "value": 56.63
+  },
+  {
+    "key": "NA",
+    "region": "70",
+    "subregion": "Evaluative Vote",
+    "value": 27.12
+  },
+  {
+    "key": "PP",
+    "region": "70",
+    "subregion": "Evaluative Vote",
+    "value": 24.85
+  },
+  {
+    "key": "JC",
+    "region": "70",
+    "subregion": "Evaluative Vote",
+    "value": 17.78
+  },
+  {
+    "key": "JL",
+    "region": "70",
+    "subregion": "Evaluative Vote",
+    "value": 25.31
+  },
+   
+  {
+    "key": "JLM",
+    "region": "70",
+    "subregion": "Evaluative Vote",
+    "value": 44.43
+  },
+  {
+    "key": "FA",
+    "region": "70",
+    "subregion": "Evaluative Vote",
+    "value": 15.82
+  },
+  {
+    "key": "FF",
+    "region": "70",
+    "subregion": "Evaluative Vote",
+    "value": 32.26
+  }
+]
