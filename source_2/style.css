@@ -4,12 +4,61 @@
   text-anchor: middle;
 }
 
+#legend_box {
+    position: relative;
+    left: 110px;
+}
+
+#small_chart {
+    margin-top: 25px; 
+    margin-left: -100px;
+    
+}
+
+#legend_box div {
+}
+.legend {
+    position: relative;
+    top: 5px;
+}
+
+.legend_color {
+    width : 20px;
+    height: 20px;
+    margin-left: 15px;
+    margin-right: 4px;
+    float: left;
+    border: 1px solid rgba(0, 0, 0, .2);
+}
+.blue {
+    background:#002699
+}
+.red {
+    background: red;
+}
+.orange {
+    background: orange;
+}
+.green {
+    background: green;
+}
 .arc path {
 //  stroke: black;
 }
 
+#slides div{
+    float: left;
+}
 .legend {
-    font-size: 12px;
+    float: left;
+     font-size: 12px;
+     }
+rect {
+    stroke-width: 2;
+}
+.candidates {
+    display: block;
+    float: down;
 }
 
 .ok {
@@ -21,15 +70,12 @@
 
 #left {
     width: 35%;
-    height: 500px;
     float: left;
 }
 
 #big_chart{
     display: block;
     position: relative;
-    left: -50px;
-    top: -50px;
 }
 
 #right {
