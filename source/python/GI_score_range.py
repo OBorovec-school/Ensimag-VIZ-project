@@ -56,4 +56,15 @@ ax.set_yticklabels(['Supported\ncandidate', 'Other\ncandidates'], rotation=90)
 # plt.show()
 plt.savefig('../../results/GI_score_range.png')
 
+
+# Pure histograms
+
+fig = plt.figure()
+sns.distplot(preferred, label='Preferred cand.')
+sns.distplot(not_preferred, label='Other cands.')
+plt.yticks([])
+plt.legend()
+#plt.show()
+fig.savefig('../../results/GI_score_range_hist.png')
+
 print('Done')

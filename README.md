@@ -12,7 +12,11 @@ We could also use  standard distributions visualization, but we see  heatmaps ar
 
 ![GI_score_range.png](results/GI_score_range.png)
 
-In the figure we can see that candidates which were not the final picks of subjects were mostly rated around 0 and the second important point is around 0.5 which means they they did not mind them. On the other hand candiddates who had aso final support were rated with mark over 0.8 in general, which was expected.
+, but we also decided to use a simple distribution visualization:
+
+![GI_score_range_hist.png](results/GI_score_range_hist.png)
+
+In the figures we can see that candidates which were not the final picks of subjects were mostly rated around 0 and the second important point is around 0.5 which means they they did not mind them. On the other hand candiddates who had aso final support were rated with mark over 0.8 in general, which was expected.
 
 ## Which candidates are approved together?
 
